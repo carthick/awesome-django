@@ -3,6 +3,7 @@
   <img width="400" src="django-logo.svg" alt="Django logo">
 </div>
 
+
 # Awesome Django
 > A curated list of awesome things related to Django.
 
